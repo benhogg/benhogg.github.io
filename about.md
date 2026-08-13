@@ -1,4 +1,4 @@
----
-layout: default
-title: "About"
----
+#About
+###This is about
+
+'sudo systemctl nginx reload'
