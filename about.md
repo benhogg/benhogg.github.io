@@ -1,1 +1,4 @@
-About
+---
+layout: default
+title: "About"
+---
